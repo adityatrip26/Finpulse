@@ -1,4 +1,4 @@
-# 📡 FinPulse — Financial News Sentiment Tracker
+git ainPulse — Financial News Sentiment Tracker
 
 > Real-time financial news sentiment analysis pipeline that tracks 500+ news sources and correlates sentiment scores with market movements to surface trading signals.
 
